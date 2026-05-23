@@ -1,0 +1,5 @@
+Usar la terminal me ha ayudado a entender mejor cómo funciona el sistema desde dentro. Al principio parecía complicada, pero con la práctica se vuelve una herramienta muy útil para organizar archivos y ejecutar comandos sin depender de ventanas o botones. 
+Me gusta que todo se hace de forma directa y rápida, y que puedo tener más control sobre lo que pasa en mi computador. 
+Además, trabajar con la terminal me hace sentir más segura al usar Git y al manejar proyectos, porque entiendo cada paso que doy. 
+Creo que dominarla es importante para cualquier persona que quiera aprender programación o trabajar en desarrollo, ya que enseña disciplina y precisión. 
+En resumen, la terminal no solo facilita el trabajo técnico, sino que también mejora la forma en que pensamos y resolvemos problemas.
